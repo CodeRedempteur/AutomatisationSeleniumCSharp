@@ -18,7 +18,7 @@ Pour une présentation détaillée du projet et un guide d'utilisation de Seleni
 
 Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, de le modifier et de le distribuer en respectant les termes de la licence.
 
-> **Note** : Ce projet est activement **maintenu**. Les contributions sont les bienvenues ! Soumettez vos suggestions ou améliorations via des pull requests.
+> **Note** : Ce projet est actuellement **maintenu** et les contributions sont les bienvenues sur le discord officiel : [Discord](https://discord.gg/JR3ENr5Db5)
 
 ## ☕️ Supportez le projet
 
